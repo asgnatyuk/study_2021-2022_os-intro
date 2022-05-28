@@ -1,0 +1,35 @@
+---
+## Front matter
+lang: ru-RU
+title: Программирование в командном процессоре ОС UNIX. Ветвления и циклы.
+author: Гнатюк Анастасия Станиславовна
+institute: RUDN University, Moscow, Russian Federation
+date: the 6th of may 2022
+
+## Formatting
+toc: false
+slide_level: 2
+theme: metropolis
+header-includes: 
+ - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
+ - '\makeatletter'
+ - '\beamer@ignorenonframefalse'
+ - '\makeatother'
+aspectratio: 43
+section-titles: true
+---
+
+# Цель работы
+
+Изучить основы программирования в оболочке ОС UNIX. Научится писать более
+сложные командные файлы с использованием логических управляющих конструкций и циклов.
+
+# Последовательность выполнения работы
+
+<p>1. Используя команды getopts grep, написать командный файл, который анализирует командную строку с ключами, а затем ищет в указанном файле нужные строки, определяемые ключом -p.
+<p>2. Написать на языке Си программу.
+<p>3. Написать командный файл.
+
+# Вывод
+
+Я изучила основы программирования в оболочке ОС UNIX и научилась писать более сложные командные файлы с использованием логических управляющих конструкций и циклов.
